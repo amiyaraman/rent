@@ -4,24 +4,7 @@
             "outputFile": "com.example.myapplication.app-mergeDebugResources-36:/values-bs/values-bs.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\amiya\\.gradle\\caches\\transforms-3\\9bd0edb671f66b2c35dc2991b4e9cee9\\transformed\\play-services-basement-18.1.0\\res\\values-bs\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "136",
-                        "endOffsets": "331"
-                    },
-                    "to": {
-                        "startLines": "46",
-                        "startColumns": "4",
-                        "startOffsets": "4434",
-                        "endColumns": "140",
-                        "endOffsets": "4570"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\amiya\\.gradle\\caches\\transforms-3\\c6e913d8c97b4df935ebe14280e107e3\\transformed\\appcompat-1.5.1\\res\\values-bs\\values-bs.xml",
+                    "source": "C:\\Users\\amiya\\.gradle\\caches\\transforms-3\\3884b320dccfe5fe24360e981acf9b57\\transformed\\appcompat-1.5.1\\res\\values-bs\\values-bs.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\amiya\\.gradle\\caches\\transforms-3\\c9b3d93acf3cb96d13cd0a1f77897e34\\transformed\\material-1.6.1\\res\\values-bs\\values-bs.xml",
+                    "source": "C:\\Users\\amiya\\.gradle\\caches\\transforms-3\\eca7f236a70dbe7915fa899436e02571\\transformed\\material-1.6.1\\res\\values-bs\\values-bs.xml",
                     "from": {
                         "startLines": "2,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -57,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\amiya\\.gradle\\caches\\transforms-3\\aaa5a4d1372078338aab0bc23bc71425\\transformed\\play-services-base-18.0.1\\res\\values-bs\\values.xml",
+                    "source": "C:\\Users\\amiya\\.gradle\\caches\\transforms-3\\26b3666345201c303a3333024bb53271\\transformed\\play-services-base-18.0.1\\res\\values-bs\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -74,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\amiya\\.gradle\\caches\\transforms-3\\c136157c61a248781c6b1e70e40a87bd\\transformed\\core-1.8.0\\res\\values-bs\\values-bs.xml",
+                    "source": "C:\\Users\\amiya\\.gradle\\caches\\transforms-3\\102215101d21fdb02f0f27bbfd4ebd5d\\transformed\\core-1.8.0\\res\\values-bs\\values-bs.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -88,6 +71,23 @@
                         "startOffsets": "9713",
                         "endColumns": "100",
                         "endOffsets": "9809"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\amiya\\.gradle\\caches\\transforms-3\\0ccd676f36a88f843cf47f86b0f66e38\\transformed\\play-services-basement-18.1.0\\res\\values-bs\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "136",
+                        "endOffsets": "331"
+                    },
+                    "to": {
+                        "startLines": "46",
+                        "startColumns": "4",
+                        "startOffsets": "4434",
+                        "endColumns": "140",
+                        "endOffsets": "4570"
                     }
                 }
             ]
