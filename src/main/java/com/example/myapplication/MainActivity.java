@@ -25,6 +25,8 @@ public class MainActivity extends AppCompatActivity {
                 Intent i=new Intent(MainActivity.this,MainActivity2.class);
                 startActivity(i);
             }
+
+
         });
         button2.setOnClickListener(new View.OnClickListener() {
             @Override
